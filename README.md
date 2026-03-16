@@ -45,10 +45,9 @@ Berikut adalah teknologi yang biasa kami gunakan dalam pengembangan proyek:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebondscommunity&show_icons=true&theme=radium&hide_border=true" alt="Rebonds's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebondscommunity&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+![Rebonds's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebondscommunity&show_icons=true&theme=radium&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebondscommunity&layout=compact&theme=radium&hide_border=true)
 
 ---
 
